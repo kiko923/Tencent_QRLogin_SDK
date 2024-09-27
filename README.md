@@ -1,0 +1,2 @@
+# Tencent_QRLogin_SDK
+自己抓的QQ包以及整合了网上一些已经封装好了的代码
